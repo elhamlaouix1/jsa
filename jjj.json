@@ -1,0 +1,130 @@
+{
+  "config" : {
+    "admob" : {
+      "admob_unit_id" : "ca-app-pub-4462195570991482~8237810061",
+      "admob_banner_id" : "405892197942457_405893551275655",
+      "admob_interstitial_id" : "ca-app-pub-4462195570991482/2219196627",
+      "admob_native_id" : "ca-app-pub-4462195570991482/3340706605",
+      "admob_rewarded_id" : "ca-app-pub-4462195570991482/3149134911"
+    },
+    
+    "max" : {
+      "max_banner_id" : "dbc5de4b95cce26e",
+      "max_interstitial_id" : "95cdc54be03ef4f6",
+      "max_native_id" : "b8ca20958ceeaee3",
+      "max_rewarded_id" : "6fe217955fbe8ef3"
+    },
+	
+	"mopub" : {
+      "mopub_banner_id" : "8e76985203574718a04df47ac64d4664",
+      "mopub_interstitial_id" : "ec03a20543a7405aab26de6b83a88568",
+      "mopub_native_id" : "340187fb4f684d659b292b55256cfc6e",
+      "mopub_rewarded_id" : "7a7c0f781446438584cf112e5b752d66"
+    },
+    
+    "mode_ads_banner" : "max",
+    "mode_ads_interstitial" : "max",
+    "mode_ads_native" : "max",
+    "mode_ads_rewarded" : "max",
+    "one_signal_app_id" : "397568a5-297b-4751-8853-32d41059ab1a",
+
+    "update" : {
+      "enable_update_closed" : true,
+      "update_action" : "https://play.google.com/store/apps/details?id=",
+      "update_msg" : "Update To Now Version",
+      "update_state" : false,
+      "update_action_text" : "Update",
+      "update_title" : "Update Now!"
+    },
+	
+	"cpa_activity" : {
+	   "cpabuild" : {
+        "cpabuild_offer_state" : true,
+        "cpabuild_offer_user_id" : "",
+        "cpabuild_offer_api_key" : "",
+        "cpabuild_offer_type" : "all"
+
+      },
+      "ogads" : {
+        "ogads_offer_state" : false,
+        "ogads_offer_user_id" : "",
+        "ogads_offer_type" : "all"
+
+      },
+      "local_offer" : {
+        "local_offer_state" : true
+      }
+	},
+	
+	"best_offers_activity" : {
+	    "ogads_app_install_state" : false,
+	    "local_offer_state" : true
+	}
+  },
+  "apps" : [
+    {
+      "id":"",
+      "appName":"",
+      "appIcon":"",
+      "appUrl":"",
+      "appState":true,
+      "payout":"",
+      "appCountry":""
+      },
+      {
+      "id":"",
+      "appName":"",
+      "appIcon":"",
+      "appUrl":"",
+      "appState":true,
+      "payout":"",
+      "appCountry":""
+    },
+    {
+      "id":"",
+      "appName":"",
+      "appIcon":"",
+      "appUrl":"",
+      "appState":true,
+      "payout":"",
+      "appCountry":""
+    }
+  ],
+  "tips" : [
+      {
+      "id" : 0,
+      "imageURL" : "https://studioproduction.site/Deeeer/unnamed%20%281%29.png",
+      "state" : "free",
+      "title" : "Step1:",
+      "written" : "DEEEER Simulator is a game in which you take on the role of your average, everyday deer. Use your stretchy neck, your stabby horns, and everything a deer has in its arsenal to tear through the city. Frolic and play with the other animals or decimate the city till there's nothing left in this slow-life town destruction game .Get up to enough naughtiness and you'll have to face off against some extra-tough animal police. Kung fu master sheep, bears who transform into police cars, and rabbits with ridiculously over-developed ears... They're all out to get you!Live life as a deer in the city and unleash your true potential!And don't forget to uncover the dark secret behind the city.... "
+    },
+    {
+      "id" : 1,
+      "imageURL" : "https://studioproduction.site/Deeeer/unnamed%20%281%29.png",
+      "state" : "vip",
+      "title" : "Step2:",
+      "written" : "DEEEER Simulator is a game in which you take on the role of your average, everyday deer. Use your stretchy neck, your stabby horns, and everything a deer has in its arsenal to tear through the city. Frolic and play with the other animals or decimate the city till there's nothing left in this slow-life town destruction game .Get up to enough naughtiness and you'll have to face off against some extra-tough animal police. Kung fu master sheep, bears who transform into police cars, and rabbits with ridiculously over-developed ears... They're all out to get you!Live life as a deer in the city and unleash your true potential!And don't forget to uncover the dark secret behind the city"
+    },
+    {
+      "id" : 2,
+      "imageURL" : "https://studioproduction.site/Deeeer/unnamed%20%281%29.png",
+      "state" : "vip",
+      "title" : "Step3:",
+      "written" : "DEEEER Simulator is a game in which you take on the role of your average, everyday deer. Use your stretchy neck, your stabby horns, and everything a deer has in its arsenal to tear through the city. Frolic and play with the other animals or decimate the city till there's nothing left in this slow-life town destruction game .Get up to enough naughtiness and you'll have to face off against some extra-tough animal police. Kung fu master sheep, bears who transform into police cars, and rabbits with ridiculously over-developed ears... They're all out to get you!Live life as a deer in the city and unleash your true potential!And don't forget to uncover the dark secret behind the city"
+    },
+    {
+      "id" : 3,
+      "imageURL" : "https://studioproduction.site/Deeeer/unnamed%20%281%29.png",
+      "state" : "vip",
+      "title" : "Step4:",
+      "written" : "DEEEER Simulator is a game in which you take on the role of your average, everyday deer. Use your stretchy neck, your stabby horns, and everything a deer has in its arsenal to tear through the city. Frolic and play with the other animals or decimate the city till there's nothing left in this slow-life town destruction game .Get up to enough naughtiness and you'll have to face off against some extra-tough animal police. Kung fu master sheep, bears who transform into police cars, and rabbits with ridiculously over-developed ears... They're all out to get you!Live life as a deer in the city and unleash your true potential!And don't forget to uncover the dark secret behind the city"
+    },
+    {
+      "id" : 4,
+      "imageURL" : "https://studioproduction.site/Deeeer/unnamed%20%281%29.png",
+      "state" : "vip",
+      "title" : "Step5:",
+      "written" : "DEEEER Simulator is a game in which you take on the role of your average, everyday deer. Use your stretchy neck, your stabby horns, and everything a deer has in its arsenal to tear through the city. Frolic and play with the other animals or decimate the city till there's nothing left in this slow-life town destruction game .Get up to enough naughtiness and you'll have to face off against some extra-tough animal police. Kung fu master sheep, bears who transform into police cars, and rabbits with ridiculously over-developed ears... They're all out to get you!Live life as a deer in the city and unleash your true potential!And don't forget to uncover the dark secret behind the city. "
+    }
+  ]
+}
