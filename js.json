@@ -1,0 +1,130 @@
+{
+  "config" : {
+    "admob" : {
+      "admob_unit_id" : "",
+      "admob_banner_id" : "",
+      "admob_interstitial_id" : "",
+      "admob_native_id" : "",
+      "admob_rewarded_id" : ""
+    },
+    
+    "max" : {
+      "max_banner_id" : "",
+      "max_interstitial_id" : "",
+      "max_native_id" : "",
+      "max_rewarded_id" : ""
+    },
+	
+	"mopub" : {
+      "mopub_banner_id" : "",
+      "mopub_interstitial_id" : "",
+      "mopub_native_id" : "",
+      "mopub_rewarded_id" : ""
+    },
+    
+    "mode_ads_banner" : "max",
+    "mode_ads_interstitial" : "max",
+    "mode_ads_native" : "max",
+    "mode_ads_rewarded" : "max",
+    "one_signal_app_id" : "",
+
+    "update" : {
+      "enable_update_closed" : true,
+      "update_action" : "https://play.google.com/store/apps/details?id=",
+      "update_msg" : "Update To Now Version",
+      "update_state" : false,
+      "update_action_text" : "Update",
+      "update_title" : "Update Now!"
+    },
+	
+	"cpa_activity" : {
+	   "cpabuild" : {
+        "cpabuild_offer_state" : true,
+        "cpabuild_offer_user_id" : "",
+        "cpabuild_offer_api_key" : "",
+        "cpabuild_offer_type" : "all"
+
+      },
+      "ogads" : {
+        "ogads_offer_state" : false,
+        "ogads_offer_user_id" : "",
+        "ogads_offer_type" : "all"
+
+      },
+      "local_offer" : {
+        "local_offer_state" : true
+      }
+	},
+	
+	"best_offers_activity" : {
+	    "ogads_app_install_state" : false,
+	    "local_offer_state" : true
+	}
+  },
+  "apps" : [
+    {
+      "id":"",
+      "appName":"",
+      "appIcon":"",
+      "appUrl":"",
+      "appState":true,
+      "payout":"",
+      "appCountry":""
+      },
+      {
+      "id":"",
+      "appName":"",
+      "appIcon":"",
+      "appUrl":"",
+      "appState":true,
+      "payout":"",
+      "appCountry":""
+    },
+    {
+      "id":"",
+      "appName":"",
+      "appIcon":"",
+      "appUrl":"",
+      "appState":true,
+      "payout":"",
+      "appCountry":""
+    }
+  ],
+  "tips" : [
+      {
+      "id" : 0,
+      "imageURL" : "https://studioproduction.site/recroomsuliman/ic.png",
+      "state" : "free",
+      "title" : "Step1:",
+      "written" : "If in VR, be sure you are in a good spot to easily reload your gun.\nPrefire, prefire, prefire. Almost all the ranged weapons take time for the bullet to reach the target. Shoot where the enemy is gonna be, not where he is.\nUse the environment. Hide behind barriers, dodge between trees, climb over walls.\nKnow your weapon. This is very important. Paintball Shotguns are crap at anything but close-quarters. Laser Railguns need a clear shot because the enemy will see where the shot came from if you miss.\nCommunicate with your team. None likes the guy who knows what’s going on but never tells anyone."
+    },
+    {
+      "id" : 1,
+      "imageURL" : "https://studioproduction.site/recroomsuliman/ic.png",
+      "state" : "free",
+      "title" : "Step2:",
+      "written" : "If in VR, be sure you are in a good spot to easily reload your gun.\nPrefire, prefire, prefire. Almost all the ranged weapons take time for the bullet to reach the target. Shoot where the enemy is gonna be, not where he is.\nUse the environment. Hide behind barriers, dodge between trees, climb over walls.\nKnow your weapon. This is very important. Paintball Shotguns are crap at anything but close-quarters. Laser Railguns need a clear shot because the enemy will see where the shot came from if you miss.\nCommunicate with your team. None likes the guy who knows what’s going on but never tells anyone."
+    },
+    {
+      "id" : 2,
+      "imageURL" : "https://studioproduction.site/recroomsuliman/ic.png",
+      "state" : "vip",
+      "title" : "Step3:",
+      "written" : "If in VR, be sure you are in a good spot to easily reload your gun.\nPrefire, prefire, prefire. Almost all the ranged weapons take time for the bullet to reach the target. Shoot where the enemy is gonna be, not where he is.\nUse the environment. Hide behind barriers, dodge between trees, climb over walls.\nKnow your weapon. This is very important. Paintball Shotguns are crap at anything but close-quarters. Laser Railguns need a clear shot because the enemy will see where the shot came from if you miss.\nCommunicate with your team. None likes the guy who knows what’s going on but never tells anyone."
+    },
+    {
+      "id" : 3,
+      "imageURL" : "https://studioproduction.site/recroomsuliman/ic.png",
+      "state" : "vip",
+      "title" : "Step4:",
+      "written" : "If in VR, be sure you are in a good spot to easily reload your gun.\nPrefire, prefire, prefire. Almost all the ranged weapons take time for the bullet to reach the target. Shoot where the enemy is gonna be, not where he is.\nUse the environment. Hide behind barriers, dodge between trees, climb over walls.\nKnow your weapon. This is very important. Paintball Shotguns are crap at anything but close-quarters. Laser Railguns need a clear shot because the enemy will see where the shot came from if you miss.\nCommunicate with your team. None likes the guy who knows what’s going on but never tells anyone."
+    },
+    {
+      "id" : 4,
+      "imageURL" : "https://studioproduction.site/recroomsuliman/ic.png",
+      "state" : "vip",
+      "title" : "Step5:",
+      "written" : "If in VR, be sure you are in a good spot to easily reload your gun.\nPrefire, prefire, prefire. Almost all the ranged weapons take time for the bullet to reach the target. Shoot where the enemy is gonna be, not where he is.\nUse the environment. Hide behind barriers, dodge between trees, climb over walls.\nKnow your weapon. This is very important. Paintball Shotguns are crap at anything but close-quarters. Laser Railguns need a clear shot because the enemy will see where the shot came from if you miss.\nCommunicate with your team. None likes the guy who knows what’s going on but never tells anyone."
+    }
+  ]
+}
