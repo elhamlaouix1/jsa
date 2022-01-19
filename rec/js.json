@@ -1,0 +1,130 @@
+{
+  "config" : {
+    "admob" : {
+      "admob_unit_id" : "",
+      "admob_banner_id" : "",
+      "admob_interstitial_id" : "",
+      "admob_native_id" : "",
+      "admob_rewarded_id" : ""
+    },
+    
+    "max" : {
+      "max_banner_id" : "073f92906e223bb1",
+      "max_interstitial_id" : "17cc4c9f102520c2",
+      "max_native_id" : "06e3d9433dc3dc1e",
+      "max_rewarded_id" : "0640c81c1eb84c0a"
+    },
+	
+	"mopub" : {
+      "mopub_banner_id" : "",
+      "mopub_interstitial_id" : "",
+      "mopub_native_id" : "",
+      "mopub_rewarded_id" : ""
+    },
+    
+    "mode_ads_banner" : "max",
+    "mode_ads_interstitial" : "max",
+    "mode_ads_native" : "max",
+    "mode_ads_rewarded" : "max",
+    "one_signal_app_id" : "",
+
+    "update" : {
+      "enable_update_closed" : true,
+      "update_action" : "https://play.google.com/store/apps/details?id=",
+      "update_msg" : "Update To Now Version",
+      "update_state" : false,
+      "update_action_text" : "Update",
+      "update_title" : "Update Now!"
+    },
+	
+	"cpa_activity" : {
+	   "cpabuild" : {
+        "cpabuild_offer_state" : true,
+        "cpabuild_offer_user_id" : "",
+        "cpabuild_offer_api_key" : "",
+        "cpabuild_offer_type" : "all"
+
+      },
+      "ogads" : {
+        "ogads_offer_state" : false,
+        "ogads_offer_user_id" : "",
+        "ogads_offer_type" : "all"
+
+      },
+      "local_offer" : {
+        "local_offer_state" : true
+      }
+	},
+	
+	"best_offers_activity" : {
+	    "ogads_app_install_state" : false,
+	    "local_offer_state" : true
+	}
+  },
+  "apps" : [
+    {
+      "id":"",
+      "appName":"",
+      "appIcon":"",
+      "appUrl":"",
+      "appState":true,
+      "payout":"",
+      "appCountry":""
+      },
+      {
+      "id":"",
+      "appName":"",
+      "appIcon":"",
+      "appUrl":"",
+      "appState":true,
+      "payout":"",
+      "appCountry":""
+    },
+    {
+      "id":"",
+      "appName":"",
+      "appIcon":"",
+      "appUrl":"",
+      "appState":true,
+      "payout":"",
+      "appCountry":""
+    }
+  ],
+  "tips" : [
+      {
+      "id" : 0,
+      "imageURL" : "https://studioproduction.site/hpmod/1.png",
+      "state" : "free",
+      "title" : "Step1:",
+      "written" : "happp"
+    },
+    {
+      "id" : 1,
+      "imageURL" : "https://studioproduction.site/hpmod/1.png",
+      "state" : "free",
+      "title" : "Step2:",
+      "written" : "wellcom to happy tips mode "
+    },
+    {
+      "id" : 2,
+      "imageURL" : "https://studioproduction.site/hpmod/1.png",
+      "state" : "vip",
+      "title" : "Step3:",
+      "written" : "wellcom to happy tips mode"
+    },
+    {
+      "id" : 3,
+      "imageURL" : "https://studioproduction.site/hpmod/1.png",
+      "state" : "vip",
+      "title" : "Step4:",
+      "written" : "wellcom to happy tips mode"
+    },
+    {
+      "id" : 4,
+      "imageURL" : "https://studioproduction.site/hpmod/1.png",
+      "state" : "vip",
+      "title" : "Step5:",
+      "written" : "wellcom to happy tips mode."
+    }
+  ]
+}
